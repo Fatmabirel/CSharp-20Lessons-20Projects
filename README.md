@@ -22,7 +22,7 @@ Bu proje, [Murat Yücedağ](https://muratyucedag.com/iletisim/) tarafından **Ud
 #### NASIL BİR PROJE OLUŞTURDUK? 🔎
 <p>Eğitim, toplamda 20 ayrı proje içermekte olup, her bir proje belirli bir konuyu uygulamalı olarak öğretmeyi amaçlamaktadır. Her proje, gerçek dünya problemlerini çözmek için C# ve .NET teknolojilerini kullanarak, temel programlama becerilerinden gelişmiş yazılım tasarımı ve veri erişim tekniklerine kadar geniş bir yelpazede bilgi ve deneyim kazandırmaktadır.</p>
 
-## 🌕 PROJE 1 - ADONET MÜŞTERİ PROJESİ
+## 🌕 PROJE 1 - ADONET MÜŞTERİ YÖNETİM SİSTEMİ PROJESİ
 
 Bu proje, ***ADO.NET*** ve ***Windows Forms*** kullanılarak geliştirilmiş bir müşteri yönetim uygulamasıdır. </br>
 
@@ -31,7 +31,23 @@ Projede üç ana form ekranı bulunmaktadır: ***Anasayfa, Müşteri Yönetimi**
 - [Anasayfa Ekranı](https://github.com/user-attachments/assets/6d02b6bf-07aa-4867-8990-c4a631a29c39)
 - [Şehir Yönetimi Ekranı](https://github.com/user-attachments/assets/3280e204-7e3d-4a42-8ee1-ac17fd132faf)
 - [Müşteri Yönetimi Ekranı](https://github.com/user-attachments/assets/9271fc24-93be-4bbe-8df9-cf51451ff490)
+-----------------------------------------------------------------------
+## 🌕 PROJE 2 - ENTITY FRAMEWORK ÜRÜN TAKİP SİSTEMİ PROJESİ
 
+Bu proje, ***Entity Framework*** ve ***Windows Forms*** kullanılarak geliştirilmiş bir ürün takip sistemidir. </br>
+
+***DbFirst*** yaklaşımı kullanılarak oluşturulan bu projede, hem ürünler hem de kategoriler için ***CRUD*** (Ekleme, Güncelleme, Silme, Listeleme) işlemleri gerçekleştirilebilmektedir. Kullanıcılar, ürün ekleyebilir, silebilir, güncelleyebilir ve stok durumlarını takip edebilirler. Benzer şekilde kategoriler için de CRUD işlemleri yapılabilmektedir. Uygulama, iki ana formdan oluşmaktadır: ***Ürün Yönetimi*** ve ***Kategori Yönetimi***, bu ekranlar kullanıcıların ilgili işlemleri kolayca gerçekleştirmelerine olanak tanır.
+
+- [Ürün Yönetimi Ekranı](https://github.com/user-attachments/assets/f4df71f3-d326-4a94-a82d-dcb6ea3eb06e)
+- [Kategori Yönetimi Ekranı](https://github.com/user-attachments/assets/72f61a97-db01-45b4-96c9-92d598edb11c)
+-----------------------------------------------------------------------
+#### 📦 Veri Tabanı Yedek Dosyaları
+
+Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
+
+[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1JitPvRKpfmHsS_Bg_D4g326Bq6r_YhES/view?usp=drive_link)
+
+-----------------------------------------------------------------------
 <p>Diğer projelerin detayları zamanla eklenecektir. Güncellemelerden haberdar olmak için repository'mizi takip etmeyi unutmayın! ⌛</p>
 
 Görüşürüz 🎉
