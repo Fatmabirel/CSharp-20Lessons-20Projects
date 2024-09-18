@@ -58,13 +58,24 @@ Bu istatistiklerden bazıları şunlardır:
 Uygulama, kullanıcıların verileri daha iyi analiz edebilmeleri için istatistikleri derleyerek, veri tabanındaki bilgilerin görsel ve anlaşılır bir şekilde sunulmasına olanak tanır.
 - [İstatistik Ekranı](https://github.com/user-attachments/assets/6872df92-1f44-4392-a931-18645f869975)
 -----------------------------------------------------------------------
+## 🌕 PROJE 4 - ENTITY FRAMEWORK FİLM/DİZİ TAKİP SİSTEMİ PROJESİ
+
+Bu proje, ***Entity Framework*** ve ***Windows Forms*** kullanılarak geliştirilmiş bir film/dizi takip sistemidir. </br>
+
+***CodeFirst*** yaklaşımı kullanılarak oluşturulan bu projede, hem filmler/diziler hem de kategoriler için ***CRUD*** (Ekleme, Güncelleme, Silme, Listeleme) işlemleri gerçekleştirilebilmektedir. Kullanıcılar, izledikleri filmleri ve dizileri ekleyebilir, silebilir, güncelleyebilir ve izlenme durumlarını takip edebilirler. Benzer şekilde kategoriler için de CRUD işlemleri yapılabilmektedir. Uygulama, iki ana formdan oluşmaktadır: ***Film/Dizi Yönetimi*** ve ***Kategori Yönetimi***, bu ekranlar kullanıcıların ilgili işlemleri kolayca gerçekleştirmelerine olanak tanır.
+
+- [Film Yönetimi Ekranı](https://github.com/user-attachments/assets/8dfffc89-070c-4b3a-a464-1047771a543d)
+- [Kategori Yönetimi Ekranı](https://github.com/user-attachments/assets/63069398-1129-4219-83a8-1bc144cd83ff)
+
+
+-----------------------------------------------------------------------
 #### 📦 Veri Tabanı Yedek Dosyaları
 
 Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
 
-[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1Ct6BEo9Ip9rFbnY_s-QCk10y8Uzaw9Nn/view?usp=drive_link)
+[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1o7tCcAgOWBFqnGoKaalBx-VxCWOZFkwR/view?usp=drive_link)
 
 -----------------------------------------------------------------------
-<p>Diğer projelerin detayları zamanla eklenecektir. Güncellemelerden haberdar olmak için repository'mizi takip etmeyi unutmayın! ⌛</p>
+<p>Diğer projelerin detayları yakında eklenecektir. Güncellemelerden haberdar olmak için bu repository'i takip etmeyi unutmayın! 📅 Yeni özellikler ve geliştirmeler çok yakında sizlerle! 🚀</p>
 
 Görüşürüz 🎉
