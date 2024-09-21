@@ -17,6 +17,7 @@ Bu proje, [Murat Yücedağ](https://muratyucedag.com/iletisim/) tarafından **Ud
   <img alt="ADO.NET" src="https://img.shields.io/badge/ADO.NET-%2300A3E0.svg?style=for-the-badge&logo=ado.net&logoColor=white" />
   <img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-%23E34F26.svg?style=for-the-badge&logo=entity-framework&logoColor=white" />
   <img alt="LINQ" src="https://img.shields.io/badge/LINQ-%239E1F63.svg?style=for-the-badge&logo=linq&logoColor=white" />
+  <img alt="Dapper" src="https://img.shields.io/badge/Dapper-%230D558F.svg?style=for-the-badge&logo=dapper&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
@@ -67,13 +68,21 @@ Bu proje, ***Entity Framework*** ve ***Windows Forms*** kullanılarak geliştiri
 - [Film Yönetimi Ekranı](https://github.com/user-attachments/assets/8dfffc89-070c-4b3a-a464-1047771a543d)
 - [Kategori Yönetimi Ekranı](https://github.com/user-attachments/assets/63069398-1129-4219-83a8-1bc144cd83ff)
 
+-----------------------------------------------------------------------
+## 🌕 PROJE 5 - DAPPER ÜRÜN TAKİP SİSTEMİ PROJESİ
+
+Bu proje, ***Dapper*** kullanılarak geliştirilmiş bir ürün takip sistemidir. </br>
+
+***Northwind*** veri tabanı kullanılarak oluşturulan bu projede kategoriler için ***CRUD*** (Ekleme, Güncelleme, Silme, Listeleme) işlemleri gerçekleştirilebilmektedir. Uygulama, tek form ekranından oluşmaktadır: ***Kategori Yönetimi*** . Bu ekran kullanıcıların ilgili işlemleri kolayca gerçekleştirmelerine olanak tanır.
+
+- [Kategori Yönetimi](https://github.com/user-attachments/assets/087b2f3b-3503-4f45-ad53-dbd955f0a19f)
 
 -----------------------------------------------------------------------
 #### 📦 Veri Tabanı Yedek Dosyaları
 
 Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
 
-[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1o7tCcAgOWBFqnGoKaalBx-VxCWOZFkwR/view?usp=drive_link)
+[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1JJb6MKsgx_bVXq5qDfQBFm9JtPtX1QGl/view?usp=drive_link)
 
 -----------------------------------------------------------------------
 <p>Diğer projelerin detayları yakında eklenecektir. Güncellemelerden haberdar olmak için bu repository'i takip etmeyi unutmayın! 📅 Yeni özellikler ve geliştirmeler çok yakında sizlerle! 🚀</p>
