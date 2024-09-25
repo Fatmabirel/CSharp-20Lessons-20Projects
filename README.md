@@ -7,6 +7,7 @@ Bu proje, [Murat Yücedağ](https://muratyucedag.com/iletisim/) tarafından **Ud
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 - [x] Kullanıcı Arayüzü: 
   ![Windows Forms](https://img.shields.io/badge/windows%20forms-%23121011.svg?style=for-the-badge&logo=windows&logoColor=white)
+  ![Web API](https://img.shields.io/badge/web%20api-%230078D4.svg?style=for-the-badge&logo=web&logoColor=white)
 - [x] Veri tabanı: 
   ![MsSQL Server](https://img.shields.io/badge/mssql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
@@ -78,11 +79,21 @@ Bu proje, ***Dapper*** kullanılarak geliştirilmiş bir ürün takip sistemidir
 - [Kategori Yönetimi](https://github.com/user-attachments/assets/087b2f3b-3503-4f45-ad53-dbd955f0a19f)
 
 -----------------------------------------------------------------------
+## 🌕 PROJE 6 - API HAVA DURUMU TAKİBİ PROJESİ
+
+Bu proje, ***Web Api*** kullanılarak geliştirilmiş bir ürün takip sistemidir. </br>
+
+Projede şehirlerin hava durumu verileri kaydedilmekte, ***CRUD*** (Create, Read, Update, Delete) işlemleriyle yönetilebilmektedir. Ayrıca, sadece temel veri işlemleriyle sınırlı kalmayıp, sistemdeki şehirler arasından en yüksek ve en düşük sıcaklığa sahip olan şehirler gibi özel veri sorgularını da API üzerinden test edilebilmektedir. Bu özellikler sayesinde kullanıcılar, hava durumu analizlerini kolaylıkla yapabilmektedir.
+
+- [Hava Durumu API Ekranı](https://github.com/user-attachments/assets/a40f9720-1887-40fa-b241-dd8c0419e3f4)
+
+
+-----------------------------------------------------------------------
 #### 📦 Veri Tabanı Yedek Dosyaları
 
 Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
 
-[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1JJb6MKsgx_bVXq5qDfQBFm9JtPtX1QGl/view?usp=drive_link)
+[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1KF80MUHHg-lBHSUt-PMZhssHA5DTKa7X/view?usp=drive_link)
 
 -----------------------------------------------------------------------
 <p>Diğer projelerin detayları yakında eklenecektir. Güncellemelerden haberdar olmak için bu repository'i takip etmeyi unutmayın! 📅 Yeni özellikler ve geliştirmeler çok yakında sizlerle! 🚀</p>
