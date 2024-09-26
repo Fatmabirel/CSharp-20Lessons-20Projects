@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project6_ApiWeatherForecast
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project7_ApiWeatherConsume", "Project7_ApiWeatherConsume\Project7_ApiWeatherConsume.csproj", "{8AACE3DF-9AA8-4895-A2A8-1EA467B3EF4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project8_RapidApiCurrencyProject", "Project8_RapidApiCurrencyProject\Project8_RapidApiCurrencyProject.csproj", "{FB10F6F4-5C90-4FC4-A037-78CDB9810AE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8AACE3DF-9AA8-4895-A2A8-1EA467B3EF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AACE3DF-9AA8-4895-A2A8-1EA467B3EF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AACE3DF-9AA8-4895-A2A8-1EA467B3EF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB10F6F4-5C90-4FC4-A037-78CDB9810AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB10F6F4-5C90-4FC4-A037-78CDB9810AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB10F6F4-5C90-4FC4-A037-78CDB9810AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB10F6F4-5C90-4FC4-A037-78CDB9810AE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
