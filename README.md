@@ -20,6 +20,7 @@ Bu proje, [Murat Yücedağ](https://muratyucedag.com/iletisim/) tarafından **Ud
   <img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-%23E34F26.svg?style=for-the-badge&logo=entity-framework&logoColor=white" />
   <img alt="LINQ" src="https://img.shields.io/badge/LINQ-%239E1F63.svg?style=for-the-badge&logo=linq&logoColor=white" />
   <img alt="Dapper" src="https://img.shields.io/badge/Dapper-%230D558F.svg?style=for-the-badge&logo=dapper&logoColor=white" />
+  <img alt="RapidAPI" src="https://img.shields.io/badge/RapidAPI-%23007BFF.svg?style=for-the-badge&logo=api&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
@@ -95,13 +96,20 @@ Bu proje, ***Console App*** kullanılarak geliştirilmiş bir hava durumu takip 
 ***Proje 6***'da geliştirilmiş ***Hava Durumu API***'si kullanılarak oluşturulan bu projede, kullanıcıların çeşitli şehirlerin hava durumu bilgilerini API üzerinden alarak etkileşimde bulunmaları sağlanmaktadır. Uygulama, kullanıcıların yeni şehirler eklemesine, mevcut verileri güncellemesine ve silmesine olanak tanımaktadır. Bu sayede, kullanıcılar hava durumu analizlerini kolaylıkla gerçekleştirebilmektedir.
 
 - [API Consume Ekranı](https://github.com/user-attachments/assets/02b439e8-7dbd-48e2-af6e-2dcc4aea481f)
+-----------------------------------------------------------------------
+## 🌕 PROJE 8 - RAPIDAPI İLE GÜNCEL DÖVİZ KURU TAKİBİ PROJESİ
 
+Bu proje, ***RapidAPI*** ve ***Windows Forms*** kullanılarak geliştirilmiş bir döviz kuru takip sistemidir. </br>
+
+Bu projede, RapidAPI üzerinden sağlanan ***Currency Conversion and Exchange Rates API*** kullanılarak ***Dolar, Euro*** ve ***Sterlin*** para birimlerinin ***Türk Lirası (TL)*** karşılıkları alınmıştır. Kullanıcı, belirli bir para biriminde girdiği tutar ile ilgili döviz değerini çarparak toplam fiyatı hesaplayabilir. Bu sayede kullanıcılar, döviz kurlarını takip edebilir ve farklı para birimleri arasındaki dönüşümleri kolaylıkla gerçekleştirebilir. Uygulama, kullanıcılara güncel döviz bilgilerini sunarak döviz alım-satım işlemlerinde doğru kararlar vermelerine yardımcı olur.
+
+- [Güncel Döviz Kurları Ekranı](https://github.com/user-attachments/assets/916642d9-087d-4707-87af-6e82ff1c5bf1)
 -----------------------------------------------------------------------
 #### 📦 Veri Tabanı Yedek Dosyaları
 
 Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
 
-[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1KF80MUHHg-lBHSUt-PMZhssHA5DTKa7X/view?usp=drive_link)
+[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1B1bm659CgnfO-Ew8dJF8SGgx0jH-M9AT/view?usp=drive_link)
 
 -----------------------------------------------------------------------
 <p>Diğer projelerin detayları yakında eklenecektir. Güncellemelerden haberdar olmak için bu repository'i takip etmeyi unutmayın! 📅 Yeni özellikler ve geliştirmeler çok yakında sizlerle! 🚀</p>
