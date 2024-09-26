@@ -8,6 +8,7 @@ Bu proje, [Murat Yücedağ](https://muratyucedag.com/iletisim/) tarafından **Ud
 - [x] Kullanıcı Arayüzü: 
   ![Windows Forms](https://img.shields.io/badge/windows%20forms-%23121011.svg?style=for-the-badge&logo=windows&logoColor=white)
   ![Web API](https://img.shields.io/badge/web%20api-%230078D4.svg?style=for-the-badge&logo=web&logoColor=white)
+  ![Console](https://img.shields.io/badge/console-%238A2BE2.svg?style=for-the-badge&logo=windows&logoColor=white)
 - [x] Veri tabanı: 
   ![MsSQL Server](https://img.shields.io/badge/mssql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
@@ -81,12 +82,19 @@ Bu proje, ***Dapper*** kullanılarak geliştirilmiş bir ürün takip sistemidir
 -----------------------------------------------------------------------
 ## 🌕 PROJE 6 - API HAVA DURUMU TAKİBİ PROJESİ
 
-Bu proje, ***Web Api*** kullanılarak geliştirilmiş bir ürün takip sistemidir. </br>
+Bu proje, ***Web Api*** kullanılarak geliştirilmiş bir hava durumu takip sistemidir. </br>
 
 Projede şehirlerin hava durumu verileri kaydedilmekte, ***CRUD*** (Create, Read, Update, Delete) işlemleriyle yönetilebilmektedir. Ayrıca, sadece temel veri işlemleriyle sınırlı kalmayıp, sistemdeki şehirler arasından en yüksek ve en düşük sıcaklığa sahip olan şehirler gibi özel veri sorgularını da API üzerinden test edilebilmektedir. Bu özellikler sayesinde kullanıcılar, hava durumu analizlerini kolaylıkla yapabilmektedir.
 
 - [Hava Durumu API Ekranı](https://github.com/user-attachments/assets/a40f9720-1887-40fa-b241-dd8c0419e3f4)
+-----------------------------------------------------------------------
+## 🌕 PROJE 7 - API ENTEGRASYONU İLE HAVA DURUMU TAKİBİ PROJESİ
 
+Bu proje, ***Console App*** kullanılarak geliştirilmiş bir hava durumu takip sistemidir. </br>
+
+***Proje 6***'da geliştirilmiş ***Hava Durumu API***'si kullanılarak oluşturulan bu projede, kullanıcıların çeşitli şehirlerin hava durumu bilgilerini API üzerinden alarak etkileşimde bulunmaları sağlanmaktadır. Uygulama, kullanıcıların yeni şehirler eklemesine, mevcut verileri güncellemesine ve silmesine olanak tanımaktadır. Bu sayede, kullanıcılar hava durumu analizlerini kolaylıkla gerçekleştirebilmektedir.
+
+- [API Consume Ekranı](https://github.com/user-attachments/assets/02b439e8-7dbd-48e2-af6e-2dcc4aea481f)
 
 -----------------------------------------------------------------------
 #### 📦 Veri Tabanı Yedek Dosyaları
