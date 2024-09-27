@@ -52,7 +52,7 @@ if (number == "2")
         foreach (var item in jArray)
         {
             string cityName = item["name"].ToString();
-            string cityTemprature = item["temprature"].ToString();
+            string cityTemprature = item["temperature"].ToString();
             string country = item["country"].ToString();
             Console.WriteLine(cityName + "-" + country + "-->" + cityTemprature + " derece");
         }
@@ -63,7 +63,7 @@ if (number == "3")
     Console.WriteLine("### Yeni Veri Girişi ###");
     Console.WriteLine();
     string name, country, detail;
-    decimal temprature;
+    decimal temperature;
 
     Console.Write("Şehir Adı: ");
     name = Console.ReadLine();
@@ -75,7 +75,7 @@ if (number == "3")
     detail = Console.ReadLine();
 
     Console.Write("Sıcaklık Değeri: ");
-    temprature = decimal.Parse(Console.ReadLine());
+    temperature = decimal.Parse(Console.ReadLine());
 
     string url = "https://localhost:7236/api/Weathers";
     var newWeatherCity = new
@@ -83,7 +83,7 @@ if (number == "3")
         Name = name,
         Country = country,
         Detail = detail,
-        Temprature = temprature
+        Temprature = temperature
     };
 
     using (HttpClient client = new HttpClient())
@@ -111,7 +111,7 @@ if (number == "5")
     Console.WriteLine("### Yeni Güncelleme İşlemi ###");
     Console.WriteLine();
     string name, country, detail;
-    decimal temprature;
+    decimal temperature;
     int Id;
 
     Console.Write("Şehir Id: ");
@@ -127,7 +127,7 @@ if (number == "5")
     detail = Console.ReadLine();
 
     Console.Write("Sıcaklık Değeri: ");
-    temprature = decimal.Parse(Console.ReadLine());
+    temperature = decimal.Parse(Console.ReadLine());
 
     string url = "https://localhost:7236/api/Weathers";
     var updatedWeatherCity = new
@@ -136,7 +136,7 @@ if (number == "5")
         Name = name,
         Country = country,
         Detail = detail,
-        Temprature = temprature
+        Temprature = temperature
     };
 
     using (HttpClient client = new HttpClient())
@@ -163,7 +163,7 @@ if (number == "6")
         string name = cityObject["name"].ToString();
         string country = cityObject["country"].ToString();
         string detail = cityObject["detail"].ToString();
-        decimal temp = decimal.Parse(cityObject["temprature"].ToString());
+        decimal temp = decimal.Parse(cityObject["temperature"].ToString());
         Console.WriteLine("Girmiş olduğunuz Id değerine ait bilgiler");
         Console.WriteLine();
         Console.WriteLine("Şehir: " + name + " Ülke: " + country + " Sıcaklık: " + temp + " Detay: " + detail);
