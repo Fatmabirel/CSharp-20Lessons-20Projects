@@ -39,7 +39,7 @@ namespace Project6_ApiWeatherForecastProject.Controllers
         {
             var value = context.Cities.Find(city.Id);
             value.Name = city.Name;
-            value.Temprature = city.Temprature;
+            value.Temperature = city.Temperature;
             value.Country = city.Country;
             value.Detail = city.Detail;
             context.Cities.Update(value);
@@ -64,14 +64,14 @@ namespace Project6_ApiWeatherForecastProject.Controllers
         [HttpGet("maxTempratureCity")]
         public IActionResult MaxTempratureCity()
         {
-            var values = context.Cities.OrderByDescending(x=>x.Temprature).Select(y => y.Name).FirstOrDefault();
+            var values = context.Cities.OrderByDescending(x=>x.Temperature).Select(y => y.Name).FirstOrDefault();
             return Ok(values);
         }
 
         [HttpGet("minTempratureCity")]
         public IActionResult MinTempratureCity()
         {
-            var values = context.Cities.OrderBy(x => x.Temprature).Select(y => y.Name).FirstOrDefault();
+            var values = context.Cities.OrderBy(x => x.Temperature).Select(y => y.Name).FirstOrDefault();
             return Ok(values);
         }
     }
