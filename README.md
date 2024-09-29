@@ -11,6 +11,7 @@ Bu proje, [Murat Yücedağ](https://muratyucedag.com/iletisim/) tarafından **Ud
   ![Console](https://img.shields.io/badge/console-%238A2BE2.svg?style=for-the-badge&logo=windows&logoColor=white)
 - [x] Veri tabanı: 
   ![MsSQL Server](https://img.shields.io/badge/mssql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### PROJEDE KULLANILAN TEKNOLOJİLER VE KÜTÜPHANELER 🔧
 <p>
@@ -48,7 +49,7 @@ Bu proje, ***Entity Framework*** ve ***Windows Forms*** kullanılarak geliştiri
 -----------------------------------------------------------------------
 ## 🌕 PROJE 3 - ENTITY FRAMEWORK & LINQ İSTATİSTİK SİSTEMİ PROJESİ
 
-Bu proje, ***Entity Framework*** ve ***LINQ*** kullanılarak geliştirilmiş bir istatistik sistemidir. </br>
+Bu proje, ***Entity Framework***, ***LINQ*** ve ***Windows Forms*** kullanılarak geliştirilmiş bir istatistik sistemidir. </br>
 
 Proje kapsamında, veritabanındaki verilerden faydalanarak farklı istatistikler çıkarılmaktadır. Uygulama, kullanıcıların sistemdeki ürünler, müşteriler ve siparişler hakkında detaylı bilgi sahibi olabilmesini sağlamaktadır. Toplam müşteri sayısı, toplam ülke sayısı, Türkiye'den verilen siparişlerin adedi gibi toplam 25 farklı istatistik hesaplanmakta ve listelenmektedir. İstatistikler dinamik olarak güncellenmekte ve kullanıcı dostu bir arayüzle sunulmaktadır. 
 
@@ -74,7 +75,7 @@ Bu proje, ***Entity Framework*** ve ***Windows Forms*** kullanılarak geliştiri
 -----------------------------------------------------------------------
 ## 🌕 PROJE 5 - DAPPER ÜRÜN TAKİP SİSTEMİ PROJESİ
 
-Bu proje, ***Dapper*** kullanılarak geliştirilmiş bir ürün takip sistemidir. </br>
+Bu proje, ***Dapper*** ve ***Windows Forms*** kullanılarak geliştirilmiş bir ürün takip sistemidir. </br>
 
 ***Northwind*** veri tabanı kullanılarak oluşturulan bu projede kategoriler için ***CRUD*** (Ekleme, Güncelleme, Silme, Listeleme) işlemleri gerçekleştirilebilmektedir. Uygulama, tek form ekranından oluşmaktadır: ***Kategori Yönetimi*** . Bu ekran kullanıcıların ilgili işlemleri kolayca gerçekleştirmelerine olanak tanır.
 
@@ -105,13 +106,19 @@ Bu projede, RapidAPI üzerinden sağlanan ***Currency Conversion and Exchange Ra
 
 - [Güncel Döviz Kurları Ekranı](https://github.com/user-attachments/assets/916642d9-087d-4707-87af-6e82ff1c5bf1)
 -----------------------------------------------------------------------
+## 🌕 PROJE 9 - MONGODB SİPARİŞ TAKİBİ PROJESİ
+
+Bu proje, ***MongoDB*** ve ***Windows Forms*** kullanılarak geliştirilmiş bir sipariş takip sistemidir. Uygulama, tek form ekranından oluşmaktadır: ***Sipariş Yönetimi***. Bu ekranda siparişlerin oluşturulması, güncellenmesi, silinmesi ve listelenmesi gibi temel CRUD (Create, Read, Update, Delete) işlemleri yapılır. Sistem, kullanıcı dostu bir arayüz ile hızlı ve verimli bir sipariş yönetimi sunmayı amaçlar. Aynı zamanda, veri tabanında esnek yapı sayesinde sipariş verileri kolayca yönetilebilir ve ölçeklenebilir.
+
+- [Sipariş Yönetim Ekranı](https://github.com/user-attachments/assets/d51a4d80-ca9c-4168-9f60-b9fff830aa90)
+-----------------------------------------------------------------------
 #### 📦 Veri Tabanı Yedek Dosyaları
 
 Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
 
-[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1B1bm659CgnfO-Ew8dJF8SGgx0jH-M9AT/view?usp=drive_link)
+[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1e__gKa7eVKKU5jaUC_JXx0nUqMBvhXWw/view?usp=drive_link)
 
 -----------------------------------------------------------------------
-<p>Diğer projelerin detayları yakında eklenecektir. Güncellemelerden haberdar olmak için bu repository'i takip etmeyi unutmayın! 📅 Yeni özellikler ve geliştirmeler çok yakında sizlerle! 🚀</p>
+<p>Diğer projelerin detayları yakında eklenecektir. Güncellemelerden haberdar olmak için bu repository'i takip etmeyi unutmayın!🚀</p>
 
 Görüşürüz 🎉
