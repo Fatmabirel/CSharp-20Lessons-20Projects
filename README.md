@@ -112,6 +112,16 @@ Bu proje, ***MongoDB*** ve ***Windows Forms*** kullanılarak geliştirilmiş bir
 
 - [Sipariş Yönetim Ekranı](https://github.com/user-attachments/assets/d51a4d80-ca9c-4168-9f60-b9fff830aa90)
 -----------------------------------------------------------------------
+## 🌕 PROJE 10 - POSTGRESQL TODOLİST PROJESİ
+
+Bu proje, ***PostgreSQL*** ve **Windows Forms** kullanılarak geliştirilmiş bir yapılacak iş takip sistemidir.
+
+***DbFirst*** yaklaşımı kullanılarak oluşturulan bu proje iki form ekranından oluşmaktadır: **Kategori Yönetimi** ve **Yapılacaklar Listesi**. Kullanıcılar kategorileri yönetebilir, yapılacak işler oluşturabilir, düzenleyebilir, silebilir ve güncelleyebilirler. Ayrıca, yapılacak işlerin durumu (**tamamlandı** veya **devam ediyor**) belirlenebilir. Proje, **CRUD** (Create, Read, Update, Delete) işlemlerini tam anlamıyla desteklemekte olup, PostgreSQL veri tabanı ile entegrasyon sağlamaktadır. Kullanıcı dostu bir arayüz sunan bu uygulama, veri tabanındaki bilgileri dinamik olarak listeleyerek, kullanıcıların hızlı ve etkili bir şekilde yönetmelerine olanak tanımaktadır.
+
+- [Yapılacaklar Ekranı](https://github.com/user-attachments/assets/702dd976-276f-4248-8dee-f276a6b1c27e)
+- [Kategori Ekranı](https://github.com/user-attachments/assets/7b3c7a25-3415-46d0-9fcd-255d8718b171)
+-----------------------------------------------------------------------
+
 #### 📦 Veri Tabanı Yedek Dosyaları
 
 Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
