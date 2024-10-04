@@ -121,7 +121,15 @@ Bu proje, ***PostgreSQL*** ve **Windows Forms** kullanılarak geliştirilmiş bi
 - [Yapılacaklar Ekranı](https://github.com/user-attachments/assets/702dd976-276f-4248-8dee-f276a6b1c27e)
 - [Kategori Ekranı](https://github.com/user-attachments/assets/7b3c7a25-3415-46d0-9fcd-255d8718b171)
 -----------------------------------------------------------------------
+## 🌕 PROJE 11 - TRIGGER SİPARİŞ TAKİP PROJESİ
 
+Bu proje, ***SQL Trigger*** , ***Entity Framework*** ve ***Console App*** kullanılarak geliştirilmiş bir sipariş takip sistemidir.
+
+***DbFirst*** yaklaşımı ile veri tabanındaki tablolar baz alınarak konsol ekranında gerekli işlemler gerçekleştirilmiştir. Projede, sipariş eklendiğinde SQL tetikleyicileri (trigger) aracılığıyla hem ürün stokları hem de kasadaki toplam tutar otomatik olarak güncellenir. Kullanıcılar, konsol uygulaması üzerinden sipariş ekleyebilir ve mevcut siparişleri görüntüleyebilir. ***MSSQL*** veri tabanı kullanılarak stok yönetimi ve kasa takibi sağlanmış, Entity Framework ile veri tabanı işlemleri yürütülmüştür. Bu yapı, SQL tetikleyicileri sayesinde ***stok takibi*** ve ***kasadaki toplam tutar kontrolü***nü otomatik hale getiren pratik bir sistem sunmaktadır.
+
+- [Sipariş Takip Ekranı](https://github.com/user-attachments/assets/cd217f24-d35d-4608-a6e7-8643fa51ec97)
+- 
+-----------------------------------------------------------------------
 #### 📦 Veri Tabanı Yedek Dosyaları
 
 Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
