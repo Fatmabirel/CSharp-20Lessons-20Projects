@@ -12,6 +12,7 @@ Bu proje, [Murat Yücedağ](https://muratyucedag.com/iletisim/) tarafından **Ud
 - [x] Veri tabanı: 
   ![MsSQL Server](https://img.shields.io/badge/mssql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### PROJEDE KULLANILAN TEKNOLOJİLER VE KÜTÜPHANELER 🔧
 <p>
@@ -22,6 +23,7 @@ Bu proje, [Murat Yücedağ](https://muratyucedag.com/iletisim/) tarafından **Ud
   <img alt="LINQ" src="https://img.shields.io/badge/LINQ-%239E1F63.svg?style=for-the-badge&logo=linq&logoColor=white" />
   <img alt="Dapper" src="https://img.shields.io/badge/Dapper-%230D558F.svg?style=for-the-badge&logo=dapper&logoColor=white" />
   <img alt="RapidAPI" src="https://img.shields.io/badge/RapidAPI-%23007BFF.svg?style=for-the-badge&logo=api&logoColor=white" />
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-%232B74D2.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
@@ -127,8 +129,18 @@ Bu proje, ***SQL Trigger*** , ***Entity Framework*** ve ***Console App*** kullan
 
 ***DbFirst*** yaklaşımı ile veri tabanındaki tablolar baz alınarak konsol ekranında gerekli işlemler gerçekleştirilmiştir. Projede, sipariş eklendiğinde SQL tetikleyicileri (trigger) aracılığıyla hem ürün stokları hem de kasadaki toplam tutar otomatik olarak güncellenir. Kullanıcılar, konsol uygulaması üzerinden sipariş ekleyebilir ve mevcut siparişleri görüntüleyebilir. ***MSSQL*** veri tabanı kullanılarak stok yönetimi ve kasa takibi sağlanmış, Entity Framework ile veri tabanı işlemleri yürütülmüştür. Bu yapı, SQL tetikleyicileri sayesinde ***stok takibi*** ve ***kasadaki toplam tutar kontrolü***nü otomatik hale getiren pratik bir sistem sunmaktadır.
 
-- [Sipariş Takip Ekranı](https://github.com/user-attachments/assets/cd217f24-d35d-4608-a6e7-8643fa51ec97)
-- 
+- [Sipariş Takip Ekranı](https://github.com/user-attachments/assets/cd217f24-d35d-4608-a6e7-8643fa51ec97)  
+-----------------------------------------------------------------------
+## 🌕 PROJE 12 - JWT ÇALIŞAN TAKİP PROJESİ
+
+Bu proje, ***JWT (JSON Web Token)***, ***MSSQL*** ve ***Windows Forms*** teknolojileri kullanılarak geliştirilmiş modern bir çalışan takip sistemidir.
+
+***DbFirst*** yaklaşımını benimseyen bu sistem, veri tabanı ile etkileşimli bir kullanıcı deneyimi sunarak kullanıcıların çalışan bilgilerini güvenli bir şekilde takip etmelerini sağlar. Proje, kullanıcıların giriş yapabilmesi için üç ana form ekranından oluşmaktadır: **Giriş Ekranı**, **Token Oluşturma Ekranı** ve **Çalışan Takip Ekranı**. Kullanıcılar, giriş ekranında kimlik bilgilerini doğru bir şekilde girdiklerinde, sistem tarafından oluşturulan JWT token'ı alacaklardır. Bu token, kullanıcının kimliğini doğrulamak ve yetkilendirmek için kullanılmaktadır. Kullanıcılar, oluşturulan token sayesinde çalışan takip ekranına erişim sağlarken, bu token'ın geçerliliği ve doğruluğu da sürekli olarak kontrol edilir. Eğer kullanıcı giriş bilgileri hatalıysa veya yetkisiz bir erişim denemesi yapılırsa, sistem ***"yetkiniz yok"*** hatası ile kullanıcıyı bilgilendirir. Bu sayede, kullanıcı verilerinin güvenliği artırılır ve yalnızca yetkili kullanıcıların sisteme erişimi sağlanır. Proje, güvenlik, performans ve kullanıcı deneyimini ön planda tutarak, modern yazılım geliştirme standartlarına uygun olarak tasarlanmıştır.
+
+- [Giriş Ekranı](https://github.com/user-attachments/assets/56f62992-2e8e-4531-9ca6-f898d7191d93)
+- [Token Oluşturma Ekranı](https://github.com/user-attachments/assets/98eb206a-6a30-4170-a77e-f9d78d35e462)
+- [Çalışan Takip Ekranı](https://github.com/user-attachments/assets/9cb6123c-be04-4a1a-8056-8c0c94522a9c)
+  
 -----------------------------------------------------------------------
 #### 📦 Veri Tabanı Yedek Dosyaları
 
