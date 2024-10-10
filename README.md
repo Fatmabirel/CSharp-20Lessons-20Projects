@@ -142,6 +142,14 @@ Bu proje, ***JWT (JSON Web Token)***, ***MSSQL*** ve ***Windows Forms*** teknolo
 - [Çalışan Takip Ekranı](https://github.com/user-attachments/assets/9cb6123c-be04-4a1a-8056-8c0c94522a9c)
   
 -----------------------------------------------------------------------
+## 🌕 PROJE 13 - RAPIDAPI İLE ANLIK HAVA DURUMU TAKİBİ PROJESİ
+
+Bu proje, ***RapidAPI*** ve ***Windows Forms*** kullanılarak geliştirilmiş bir hava durumu uygulamasıdır. 
+
+Bu projede, RapidAPI üzerinden sağlanan ***OpenWeather API*** kullanılarak ***İstanbul*** şehrinin sıcaklık, nem, rüzgar hızı gibi anlık hava durumu verileri kullancıya sunulmuştur. Hava durumu bilgilerine dayalı olarak görsel sunum yaparak kullanıcıya daha zengin bir deneyim sağlar. JSON verilerinden alınan hava durumu bilgilerine göre, bulutlu, yağmurlu, güneşli gibi farklı hava koşullarına uygun ikonlar dinamik olarak PictureBox üzerinde gösterilir. Uygulama, modern kullanıcı arayüzü ve kolay kullanımı ile, hava durumu tahminlerini grafiksel bir şekilde sunarak kullanıcı deneyimini iyileştirir.
+
+- [Hava Durumu Ekranı](https://github.com/user-attachments/assets/e82707f7-e7fd-4c9a-8b32-f79c518d4460)
+
 #### 📦 Veri Tabanı Yedek Dosyaları
 
 Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
