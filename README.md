@@ -150,11 +150,24 @@ Bu projede, RapidAPI üzerinden sağlanan ***OpenWeather API*** kullanılarak **
 
 - [Hava Durumu Ekranı](https://github.com/user-attachments/assets/e82707f7-e7fd-4c9a-8b32-f79c518d4460)
 
+-----------------------------------------------------------------------
+## 🌕 PROJE 14 - SQL RELATIONS İLE FUTBOL VERİ ANALİZİ PROJESİ
+
+Bu proje, ***MSSQL*** ve ***Windows Forms*** kullanılarak geliştirilmiş bir futbol veri yönetim uygulamasıdır.
+
+Bu projede, futbol takımları, sponsorları ve futbolcuları ile ilgili veriler, ilişkisel veritabanı yapısı kullanılarak yönetilmektedir. Uygulama, kullanıcıların takımların ve futbolcuların bilgilerini görüntülemesine ve sponsor bilgilerini takip etmesine olanak tanır. ***Bire Bir***, ***Bire Çok*** ve ***Çoka Çok*** SQL ilişkilerini kullanılan bu proje, verilerin daha düzenli ve bağlantılı bir şekilde sunulmasını sağlar, böylece kullanıcılar veriler arasında kolayca geçiş yapabilir.
+
+- [Takım Takip Ekranı](https://github.com/user-attachments/assets/88ba92b9-0296-4a75-97e0-34012849e62d)
+- [Futbolcu Takip Ekranı](https://github.com/user-attachments/assets/cce41010-3317-418c-8c5d-c4be64f6a5f5)
+- [Sponsor Takip Ekranı](https://github.com/user-attachments/assets/bfde0fde-23b0-4d5c-8209-fc0b928ee38d)
+
+-----------------------------------------------------------------------
+
 #### 📦 Veri Tabanı Yedek Dosyaları
 
 Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
 
-[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1e__gKa7eVKKU5jaUC_JXx0nUqMBvhXWw/view?usp=drive_link)
+[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1cZ_HjmfDZKGB_g3iY3w1JIzSZU2n6lPh/view?usp=sharing)
 
 -----------------------------------------------------------------------
 <p>Diğer projelerin detayları yakında eklenecektir. Güncellemelerden haberdar olmak için bu repository'i takip etmeyi unutmayın!🚀</p>
