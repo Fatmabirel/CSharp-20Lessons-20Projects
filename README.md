@@ -163,6 +163,16 @@ Bu projede, futbol takımları, sponsorları ve futbolcuları ile ilgili veriler
 
 -----------------------------------------------------------------------
 
+## 🌕 PROJE 15 - AKARYAKIT FİYATLARI SİMÜLASYON PROJESİ
+
+Bu proje, **RapidAPI** ve **Windows Forms** kullanılarak geliştirilmiş bir akaryakıt fiyatları simülasyon uygulamasıdır. 
+
+Projede, RapidAPI üzerinden sağlanan **Akaryakıt Fiyatları API** kullanılarak **İstanbul** ilinde bulunan **benzin, dizel ve LPG** gibi yakıt türlerinin güncel fiyatları dinamik olarak kullanıcıya sunulmaktadır. Uygulama, API verilerine dayalı olarak kullanıcıya seçilen yakıt türüne göre toplam fiyatı hesaplama imkanı verir ve bu işlemi görsel bir simülasyonla destekler. Yakıt türü ve miktarı kullanıcının seçimine göre belirlenir ve doldurma işlemi bir **ProgressBar** ile görselleştirilir. Uygulama, modern bir kullanıcı arayüzü sunarak, akaryakıt fiyatları ve yakıt tüketimi simülasyonunu kolay ve anlaşılır bir şekilde gerçekleştirir. Anlık fiyat değişimlerini takip etmek ve bunlara göre simülasyon yapmak isteyen kullanıcılar için etkili bir çözümdür.
+
+- [Akaryakıt Simülasyon Ekranı](https://github.com/user-attachments/assets/f63ab695-9055-4ea8-be08-64b5e6dd265e)
+
+-----------------------------------------------------------------------
+
 #### 📦 Veri Tabanı Yedek Dosyaları
 
 Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
