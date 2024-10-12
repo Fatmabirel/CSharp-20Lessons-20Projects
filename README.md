@@ -24,8 +24,11 @@ Bu proje, [Murat Yücedağ](https://muratyucedag.com/iletisim/) tarafından **Ud
   <img alt="Dapper" src="https://img.shields.io/badge/Dapper-%230D558F.svg?style=for-the-badge&logo=dapper&logoColor=white" />
   <img alt="RapidAPI" src="https://img.shields.io/badge/RapidAPI-%23007BFF.svg?style=for-the-badge&logo=api&logoColor=white" />
   <img alt="JWT" src="https://img.shields.io/badge/JWT-%232B74D2.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img alt="MailKit" src="https://img.shields.io/badge/MailKit-%23FF0000.svg?style=for-the-badge&logo=mail&logoColor=white" />
+  <img alt="SMTP" src="https://img.shields.io/badge/SMTP-%23EA4335.svg?style=for-the-badge&logo=smtp&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
+
 
 #### NASIL BİR PROJE OLUŞTURDUK? 🔎
 <p>Eğitim, toplamda 20 ayrı proje içermekte olup, her bir proje belirli bir konuyu uygulamalı olarak öğretmeyi amaçlamaktadır. Her proje, gerçek dünya problemlerini çözmek için C# ve .NET teknolojilerini kullanarak, temel programlama becerilerinden gelişmiş yazılım tasarımı ve veri erişim tekniklerine kadar geniş bir yelpazede bilgi ve deneyim kazandırmaktadır.</p>
@@ -170,6 +173,17 @@ Bu proje, **RapidAPI** ve **Windows Forms** kullanılarak geliştirilmiş bir ak
 Projede, RapidAPI üzerinden sağlanan **Akaryakıt Fiyatları API** kullanılarak **İstanbul** ilinde bulunan **benzin, dizel ve LPG** gibi yakıt türlerinin güncel fiyatları dinamik olarak kullanıcıya sunulmaktadır. Uygulama, API verilerine dayalı olarak kullanıcıya seçilen yakıt türüne göre toplam fiyatı hesaplama imkanı verir ve bu işlemi görsel bir simülasyonla destekler. Yakıt türü ve miktarı kullanıcının seçimine göre belirlenir ve doldurma işlemi bir **ProgressBar** ile görselleştirilir. Uygulama, modern bir kullanıcı arayüzü sunarak, akaryakıt fiyatları ve yakıt tüketimi simülasyonunu kolay ve anlaşılır bir şekilde gerçekleştirir. Anlık fiyat değişimlerini takip etmek ve bunlara göre simülasyon yapmak isteyen kullanıcılar için etkili bir çözümdür.
 
 - [Akaryakıt Simülasyon Ekranı](https://github.com/user-attachments/assets/f63ab695-9055-4ea8-be08-64b5e6dd265e)
+
+-----------------------------------------------------------------------
+
+## 🌕 PROJE 16 - MAILKIT MAIL AKTİVASYON PROJESİ
+
+Bu proje, **MailKit**, ***Entity Framework*** ve **Windows Forms** kullanılarak geliştirilmiş bir mail aktivasyon uygulamasıdır. 
+
+Uygulama, yeni kullanıcı kayıt işlemleri sırasında e-posta doğrulama sürecini yönetmek amacıyla tasarlanmıştır. Kullanıcı kayıt olurken, girdiği e-posta adresine bir doğrulama kodu gönderilir ve bu kodu doğru bir şekilde girdiğinde hesabı aktif hale getirilir. Proje, **MailKit** kütüphanesi kullanılarak SMTP üzerinden e-posta gönderimini sağlar. Kullanıcı tarafından girilen e-posta adresine, rastgele üretilmiş altı haneli bir aktivasyon kodu gönderilir. Kullanıcı, bu kodu onay ekranında girdikten sonra veritabanındaki `IsConfirm` alanı `true` olarak güncellenir ve hesap etkinleştirilir. Eğer kod hatalı girilirse kullanıcıya hata mesajı gösterilir. Uygulama, kullanıcı dostu bir arayüz sunarak mail doğrulama sürecini sorunsuz bir şekilde gerçekleştirmeyi hedefler.
+
+- [Kullanıcı Kayıt Ekranı](https://github.com/user-attachments/assets/ebc12758-dfd7-47aa-96ea-e88039213f10)
+- [Mail Doğrulama Ekranı](https://github.com/user-attachments/assets/12a408fa-3663-47ce-baed-fb3cbd631e5d)
 
 -----------------------------------------------------------------------
 
