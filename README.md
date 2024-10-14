@@ -192,14 +192,29 @@ Uygulama, yeni kullanıcı kayıt işlemleri sırasında e-posta doğrulama sür
 Bu proje, ***Kaggle*** üzerinde bulunan ***Global Superstore Dataset***'i kullanarak veri analizi yapma amacını taşımaktadır. Veri seti, gelecekteki projelerde dashboard oluşturma amacıyla kullanılacak bir veri tabanı olarak entegre edilmiştir. Proje, satış verileri, siparişler, kâr, müşteri bilgileri ve daha fazlasını içeren geniş kapsamlı bir ticari veri setine dayanmaktadır. 
 
 -----------------------------------------------------------------------
+## 🌕 PROJE 18 - SUPERSTORE DASHBOARD PROJESİ
+
+Bu proje, **Global Superstore Dataset** ve **Windows Forms** kullanılarak geliştirilmiş bir e-ticaret paneli uygulamasıdır. 
+
+Uygulama, Superstore veri tabanındaki satış verilerini analiz etmek ve grafiksel olarak kullanıcıya sunmak amacıyla tasarlanmıştır. Proje, SQL sorguları kullanarak veritabanındaki çeşitli istatistikleri ve görselleştirmeleri sağlar. Örneğin, toplam ürün sayısı, farklı şehirlerin satış oranları, Türkiye’de yapılan siparişler gibi bilgiler ana ekranda etkileşimli widget'lar şeklinde gösterilir. Ek olarak, ülkelerin satış dağılımı, sipariş miktarları ve önceliklerine göre siparişlerin analizleri çeşitli grafikler üzerinde görselleştirilir. 
+
+Bu analizlerden bazıları şunlardır:
+- Toplam ürün sayısı, şehir ve ülke bazlı sipariş sayıları
+- Ülkelere göre sipariş miktarlarını gösteren grafikler
+- Sipariş önceliğine göre sipariş dağılımı grafikleri
+- Kullanıcı dostu arayüz ve görselleştirme
+ 
+Uygulamanın ana amacı, Superstore veri tabanındaki satış performansını detaylı bir şekilde incelemek ve verileri kolayca anlaşılabilir grafikler ve sayısal bilgiler halinde kullanıcıya sunmaktır.
+- [Panel Ekranı](https://github.com/user-attachments/assets/6b783a96-6ff1-4642-8816-ac852436c64d)
+
+-----------------------------------------------------------------------
 
 #### 📦 Veri Tabanı Yedek Dosyaları
 
 Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
 
-[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1cZ_HjmfDZKGB_g3iY3w1JIzSZU2n6lPh/view?usp=sharing)
+[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1Jc1nGdJlNDPC38mLLlBJZRwWn9WSjjs2/view?usp=sharing)
 
 -----------------------------------------------------------------------
-<p>Diğer projelerin detayları yakında eklenecektir. Güncellemelerden haberdar olmak için bu repository'i takip etmeyi unutmayın!🚀</p>
 
 Görüşürüz 🎉
