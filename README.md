@@ -26,6 +26,7 @@ Bu proje, [Murat Yücedağ](https://muratyucedag.com/iletisim/) tarafından **Ud
   <img alt="JWT" src="https://img.shields.io/badge/JWT-%232B74D2.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
   <img alt="MailKit" src="https://img.shields.io/badge/MailKit-%23FF0000.svg?style=for-the-badge&logo=mail&logoColor=white" />
   <img alt="SMTP" src="https://img.shields.io/badge/SMTP-%23EA4335.svg?style=for-the-badge&logo=smtp&logoColor=white" />
+ <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
@@ -184,6 +185,11 @@ Uygulama, yeni kullanıcı kayıt işlemleri sırasında e-posta doğrulama sür
 
 - [Kullanıcı Kayıt Ekranı](https://github.com/user-attachments/assets/ebc12758-dfd7-47aa-96ea-e88039213f10)
 - [Mail Doğrulama Ekranı](https://github.com/user-attachments/assets/12a408fa-3663-47ce-baed-fb3cbd631e5d)
+
+-----------------------------------------------------------------------
+## 🌕 PROJE 17 - KAGGLE DATASET ENTEGRASYON PROJESİ
+
+Bu proje, ***Kaggle*** üzerinde bulunan ***Global Superstore Dataset***'i kullanarak veri analizi yapma amacını taşımaktadır. Veri seti, gelecekteki projelerde dashboard oluşturma amacıyla kullanılacak bir veri tabanı olarak entegre edilmiştir. Proje, satış verileri, siparişler, kâr, müşteri bilgileri ve daha fazlasını içeren geniş kapsamlı bir ticari veri setine dayanmaktadır. 
 
 -----------------------------------------------------------------------
 
