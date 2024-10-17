@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project17_KaggleDatasetsPro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project18_SuperStoreDashboardProject", "Project18_SuperStoreDashboardProject\Project18_SuperStoreDashboardProject.csproj", "{DB9D5897-6415-4BC6-8E7D-A6000FA20925}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project19_TableStatusMomentaryProject", "Project19_TableStatusMomentaryProject\Project19_TableStatusMomentaryProject.csproj", "{44F6B1B3-2A96-4B72-8D86-4BD130A8F7CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{DB9D5897-6415-4BC6-8E7D-A6000FA20925}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB9D5897-6415-4BC6-8E7D-A6000FA20925}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB9D5897-6415-4BC6-8E7D-A6000FA20925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F6B1B3-2A96-4B72-8D86-4BD130A8F7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F6B1B3-2A96-4B72-8D86-4BD130A8F7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F6B1B3-2A96-4B72-8D86-4BD130A8F7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F6B1B3-2A96-4B72-8D86-4BD130A8F7CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
