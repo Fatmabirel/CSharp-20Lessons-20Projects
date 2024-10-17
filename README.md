@@ -5,7 +5,7 @@ Bu proje, [Murat Yücedağ](https://muratyucedag.com/iletisim/) tarafından **Ud
 #### GEREKSİNİMLER 🛠
 - [x] Programlama dili: 
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-- [x] Kullanıcı Arayüzü: 
+- [x] Kullanıcı arayüzü: 
   ![Windows Forms](https://img.shields.io/badge/windows%20forms-%23121011.svg?style=for-the-badge&logo=windows&logoColor=white)
   ![Web API](https://img.shields.io/badge/web%20api-%230078D4.svg?style=for-the-badge&logo=web&logoColor=white)
   ![Console](https://img.shields.io/badge/console-%238A2BE2.svg?style=for-the-badge&logo=windows&logoColor=white)
@@ -208,12 +208,25 @@ Uygulamanın ana amacı, Superstore veri tabanındaki satış performansını de
 - [Panel Ekranı](https://github.com/user-attachments/assets/6b783a96-6ff1-4642-8816-ac852436c64d)
 
 -----------------------------------------------------------------------
+## 🌕 PROJE 19 - ANLIK MASA DURUM TAKİP PROJESİ
 
+Bu proje, **Windows Forms** kullanılarak geliştirilmiş bir masa durumu takip projesidir. 
+
+Restorandaki masaların dolu ya da boş olma durumlarını anlık olarak kullanıcıya gösterir. Her masa bir butonla temsil edilmekte olup, butonun rengi masanın durumunu belirtir; dolu masalar kırmızı, boş masalar ise yeşil renkte gösterilir. Uygulama, ***zamanlayıcı (timer)*** kullanılarak düzenli aralıklarla veri tabanını kontrol eder ve masaların durumu güncellenir. Bu sayede, kullanıcılar masaların anlık durumunu gerçek zamanlı olarak takip edebilir. Ekranda masa sayısına göre butonlar dinamik olarak yerleştirilir, böylece görsel açıdan düzenli bir masa yerleşimi sağlanır.
+
+- [Masa Takip Ekranı](https://github.com/user-attachments/assets/8c01ebce-6c0e-4476-ad70-582f4fc69873)
+
+-----------------------------------------------------------------------
+## 🌕 PROJE 20 - FİNAL PROJE
+
+Bu projede, kurstaki genel konu başlıkları tekrar edilmiştir. 
+
+-----------------------------------------------------------------------
 #### 📦 Veri Tabanı Yedek Dosyaları
 
 Bu proje serisine ait tüm veri tabanı yedek dosyalarını aşağıdaki bağlantıdan toplu halde indirebilirsiniz. Yedek dosyaları, projeleri incelemeniz ve yerel ortamınızda çalıştırabilmeniz için gerekli tüm veritabanı tablolarını ve verilerini içermektedir.
 
-[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1Jc1nGdJlNDPC38mLLlBJZRwWn9WSjjs2/view?usp=sharing)
+[**Veri Tabanı Yedek Dosyalarını İndir (ZIP)**](https://drive.google.com/file/d/1z8UnYervjfZ-MnQsoGZO5UgurGciILRE/view?usp=drive_link)
 
 -----------------------------------------------------------------------
 
